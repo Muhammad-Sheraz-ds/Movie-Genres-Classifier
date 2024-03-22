@@ -1,5 +1,7 @@
 # Movie Genre Predictor
 
+<img src='Images/genres.PNG'>
+
 ## Overview
 
 Welcome to the Movie Genre Predictor project! This project aims to predict movie genres based on various features extracted from movie data obtained from The Movie Database (TMDB). The goal is to develop a machine learning model that accurately predicts the genre of a movie given its title, overview, and other relevant information.
@@ -7,6 +9,8 @@ Welcome to the Movie Genre Predictor project! This project aims to predict movie
 ## Business Problem
 
 In the realm of movie production and recommendation systems, accurately predicting movie genres is crucial for various applications such as content recommendation, marketing strategies, and audience targeting. This project addresses the challenge of predicting movie genres effectively using machine learning techniques.
+
+
 
 ## Project Structure
 
