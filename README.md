@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Movie Genre Predictor project! This project aims to predict movie genres based on various features extracted from movie data obtained from The Movie Database (TMDb) API. The goal is to develop a machine learning model that accurately predicts the genre of a movie given its title, overview, and other relevant information.
+Welcome to the Movie Genre Predictor project! This project aims to predict movie genres based on various features extracted from movie data obtained from The Movie Database (TMDB). The goal is to develop a machine learning model that accurately predicts the genre of a movie given its title, overview, and other relevant information.
 
 ## Business Problem
 
@@ -13,17 +13,18 @@ In the realm of movie production and recommendation systems, accurately predicti
 The project is organized into the following key steps:
 
 1. **Data Acquisition:**
-   - Fetch movie data from The Movie Database (TMDb) API using appropriate credentials.
+   - Obtain movie data from The Movie Database (TMDB)using appropriate credentials.
 
 2. **Data Preprocessing and Feature Engineering:**
    - Handle missing values.
-   - Extract relevant features from movie titles, overviews, and other available information.
-   - Prepare the data for model training.
+   - Utilize natural language processing techniques to preprocess text data from movie titles, overviews, and other available information.
+   - Extract relevant features such as word embeddings, TF-IDF vectors, or document embeddings.
 
 3. **Model Training and Evaluation:**
-   - Select suitable machine learning algorithms for genre prediction.
-   - Train the models using the preprocessed data.
-   - Evaluate model performance using appropriate metrics.
+   - Select appropriate NLP models or techniques for genre prediction, such as text classification algorithms or neural network architectures.
+   - Train the models using the preprocessed text data.
+   - Evaluate model performance using metrics suitable for text classification tasks, such as accuracy, precision, recall, or F1-score.
+
 
 4. **User Interface Development:**
    - Develop a user-friendly interface for users to input movie information and get genre predictions.
