@@ -1,6 +1,6 @@
 # Movie Genre Predictor
 
-<img src='Images/genres.PNG'>
+<img align='center' src='Images/genres.PNG'>
 
 ## Overview
 
