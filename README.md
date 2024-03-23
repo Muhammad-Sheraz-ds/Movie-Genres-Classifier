@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the Movie Genre Predictor project! This project aims to predict movie genres based on various features extracted from movie data obtained from The Movie Database (TMDB). The goal is to develop a machine learning model that accurately predicts the genre of a movie given its title, overview, and other relevant information.
+Welcome to the Movie Genre Predictor project! This project aims to predict movie genres based on various features extracted from movie data obtained from The Movie Database (TMDB) API. The goal is to develop a machine learning model that accurately predicts the genre of a movie given its title, overview.
 
 ## Business Problem
 
@@ -17,7 +17,7 @@ In the realm of movie production and recommendation systems, accurately predicti
 The project is organized into the following key steps:
 
 1. **Data Acquisition:**
-   - Obtain movie data from The Movie Database (TMDB)using appropriate credentials.
+   - Obtain movie data from The Movie Database (TMDB) API using appropriate credentials.
 
 2. **Data Preprocessing and Feature Engineering:**
    - Handle missing values.
