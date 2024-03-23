@@ -1,4 +1,4 @@
-# Movie Genre Predictor
+# Movie Genre Multi-Label Text Classification
 
 <img align='center' src='Images/genres.PNG'>
 
@@ -21,11 +21,11 @@ The project is organized into the following key steps:
 
 2. **Data Preprocessing and Feature Engineering:**
    - Handle missing values.
-   - Utilize natural language processing techniques to preprocess text data from movie titles, overviews, and other available information.
+   - Utilize natural language processing techniques to preprocess text data from movie titles, overviews.
    - Extract relevant features such as word embeddings, TF-IDF vectors, or document embeddings.
 
 3. **Model Training and Evaluation:**
-   - Select appropriate NLP models or techniques for genre prediction, such as text classification algorithms or neural network architectures.
+   - Select appropriate models or techniques for genre prediction, such as text classification algorithms or neural network architectures.
    - Train the models using the preprocessed text data.
    - Evaluate model performance using metrics suitable for text classification tasks, such as accuracy, precision, recall, or F1-score.
 
